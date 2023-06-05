@@ -10,7 +10,7 @@ the new pickles to be byte-for-byte-identical to the old ones.
 😄
 
 You can `pip install pyjar` if you really want to, but you can also just
-copy this public-domain code from `src/jar/__init__.py` directly into
+copy this public-domain code from `src/pyjar/__init__.py` directly into
 your own project. You can even give it a name you like better.
 
 
