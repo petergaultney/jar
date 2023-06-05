@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyjar"
-version = "0.1.0"
+version = "0.1.1"
 description = "Move Python things to other modules, mostly for backward-compatibility"
 authors = ["Peter Gaultney <petergaultney@gmail.com>"]
 license = "unlicense"
