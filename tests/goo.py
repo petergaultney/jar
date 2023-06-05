@@ -1,6 +1,6 @@
 from typing import NamedTuple
 
-from jar import jar
+from pyjar import jar
 
 
 @jar(".foo")  # used to be foo.Foo

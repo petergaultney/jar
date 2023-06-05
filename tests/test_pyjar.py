@@ -1,7 +1,7 @@
 import pickle
 from pathlib import Path
 
-from jar import _absolute_from_relative
+from pyjar import _absolute_from_relative
 
 from .goo import Bar, Foo
 
